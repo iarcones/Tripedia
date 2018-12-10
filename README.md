@@ -55,7 +55,7 @@ Media queries - had to be done via JS not in CSS
 - Isabel: https://github.com/iarcones
 
 ## Screenshots
-Visit us here: https://lijaack.github.io/Project-one/
+Visit us here: https://iarcones.github.io/Tripedia/
 
 <p>
   <img src="Screen Shot 2018-12-03 at 1.14.40 PM.png" width="350" title="hover text">
